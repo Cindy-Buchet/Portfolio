@@ -1,0 +1,59 @@
+/* ---------- COMPETENCES --------- */
+.compe-img{
+    width: 50px;
+    height: 50px;
+}
+
+.fond-compe-img{
+    background-color:$couleur3;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 50%;
+    width: 100px;
+    padding: 25px;
+    height: 100px;
+    display: block;
+    margin: 0 auto;
+}
+
+.compe-text{
+    width: 90%;
+    padding: 20px 20px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    z-index: 100;
+    transition: opacity .5s ease-in-out;
+    font-size: 1.5em;
+    color: $blanc !important;
+}
+
+.parallax{
+    position: relative;
+    h2{
+        color: $blanc !important;
+        z-index: 100;
+        transition: opacity .5s ease-in-out;
+        text-align: center;
+        margin-bottom: 1em;
+    }
+}
+
+.parallax:before{
+    background: url("../img/computerfond.jpg")  0 0 no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.85;
+}
+
+.liste-competences{
+    border: 2px solid #000000 !important;
+    margin: 10px;
+}

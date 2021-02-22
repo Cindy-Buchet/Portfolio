@@ -1,0 +1,46 @@
+[
+    {
+      "titre": "HTML5",
+      "image": "img/html.png"
+    },
+    {
+      "titre": "CSS3",
+      "image": "img/css.png"
+    },
+    {
+      "titre": "SCSS",
+      "image": "img/scss.png"
+    },
+    {
+      "titre": "Bootstrap",
+      "image": "img/bootstrap.png"
+    },
+    {
+      "titre": "JavaScript",
+      "image": "img/javascript.png"
+    },
+    {
+      "titre": "PHP",
+      "image": "img/php.png"
+    },
+    {
+      "titre": "MySQL",
+      "image": "img/mysql.png"
+    },
+    {
+      "titre": "PhotoShop",
+      "image": "img/photoshop.png"
+    },
+    {
+      "titre": "WordPress",
+      "image": "img/wordpress.png"
+    },
+    {
+      "titre": "GitHub",
+      "image": "img/githubcompet.png"
+    },
+    {
+      "titre": "Responsive",
+      "image": "img/responsive.png"
+    }
+  ]

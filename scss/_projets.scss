@@ -1,0 +1,45 @@
+/* ---------- PROJETS --------- */
+.modal-image{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.projets-ol, .competences-ol{
+    margin-bottom: 0 !important;
+    padding-left: 0 !important;
+}
+.projet-img{
+    width: 100%;
+}
+
+.modal-body{
+    
+    h4{
+        margin-top: 1em;
+    }
+}
+.projet-text{
+    color:black !important;
+}
+
+.projet-left{
+    background-color: $gris;
+}
+
+.projet-right{
+    .projet-img{
+        float: right;
+    }
+    .modal-body{
+        margin-left: 5%;
+    }
+}
+
+.texte-min{
+    font-size: 0.7em !important;
+}
+
+#section-3{
+    .card{
+        margin-bottom: 25px;
+    }
+}

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Libre+Franklin");
+@import url("https://fonts.googleapis.com/css?family=Nunito+Sans");
+@import url("https://fonts.googleapis.com/css?family=Kristi");
+
+body{
+    background-color: #f9f9f9fa  !important;
+    color: $noir !important;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h2{
+    font-family: 'Kristi', cursive;
+    font-size: 2.5em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+h4{
+    font-size: 1.5em;
+}
+
+h5{
+    font-size: 1em;
+    font-weight: 600;
+}
+
+h1, h3, h4, h5 {
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+p{
+    font-size: 1em !important;
+}
+
+blockquote{
+    font-size: 1em;
+    font-style: italic;
+    font-family: 'Nunito Sans', sans-serif;
+}
